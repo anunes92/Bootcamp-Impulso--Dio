@@ -1,0 +1,13 @@
+comandos
+
+-mkdir
+-cd
+-cd ..
+-ls
+-git status
+-git add .
+-git commit -m "inserir um comentário"
+-git push origin main
+-git clone
+-git pull
+-ls -a
